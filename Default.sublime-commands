@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Filezilla Import: Import Server",
+        "command": "filezilla_import"
+    }
+]
